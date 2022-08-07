@@ -4,6 +4,7 @@ class demo{
 		System.out.println("m1");
 	}
 
-	
-
+	public static void newREq(){
+		System.out.println("new requirement");
+	}
 }
